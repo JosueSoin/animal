@@ -3,6 +3,7 @@ class PostModel{
   constructor(
     id,
     idUser,
+    email,
     idProvince,
     idCanton,
     text,
@@ -11,6 +12,7 @@ class PostModel{
   ) {
     this.id = id;
     this.idUser = idUser;
+    this.email = email;
     this.idProvince = idProvince;
     this.idCanton = idCanton;
     this.text = text;

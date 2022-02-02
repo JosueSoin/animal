@@ -33,7 +33,7 @@ router.post('/addPost',(req,res)=>{
 
 router.get('/getPostList',(req,res)=>{
 
-    var querySelectPost = "select * from an_post where 1=1"
+    var querySelectPost = "select an_post.id, an_post.id_user, user.email, an_post.id_cr_province, an_post.id_cr_canton, an_post.text, an_post.type, an_post.status   from an_post INNER JOIN user ON an_post.id_user = user.id where 1=1"
     var querySelectMedia = "select * from an_media_post where id_an_post = ?"
 
     if(req.query.province != null && req.query.canton != null){
@@ -82,6 +82,7 @@ router.get('/getPostList',(req,res)=>{
                     var postModel = new MyModels.PostModel(
                         resultSelectPost[index].id,
                         resultSelectPost[index].id_user,
+                        resultSelectPost[index].email,
                         resultSelectPost[index].id_cr_province,
                         resultSelectPost[index].id_cr_canton,
                         resultSelectPost[index].text,

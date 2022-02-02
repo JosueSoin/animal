@@ -1,0 +1,119 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": 7,
+            "idUser": 1,
+            "email": "josuevargasalvarez@gmail.com",
+            "idProvince": 2,
+            "idCanton": 2,
+            "text": "esto es un textoo con imagenes",
+            "type": 2,
+            "status": 2,
+            "pathList": [
+                {
+                    "id": 19,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 20,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 21,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 22,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 23,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 24,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 25,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 26,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 27,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "idUser": 1,
+            "email": "fabiola@gmail.com",
+            "idProvince": 2,
+            "idCanton": 2,
+            "text": "esto es un textoo con imagenes",
+            "type": 2,
+            "status": 2,
+            "pathList": [
+                {
+                    "id": 19,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 20,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 21,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 22,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 23,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 24,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 25,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 26,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                },
+                {
+                    "id": 27,
+                    "idPost": 7,
+                    "path": "2021-11-01T00-16-37.630Z3494477.jpg"
+                }
+            ]
+        }
+    ]
+}
